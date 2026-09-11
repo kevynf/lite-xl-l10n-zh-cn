@@ -1,0 +1,27 @@
+{
+  "addons": [
+    {
+      "id": "l10n_zh_cn",
+      "version": "0.1.0",
+      "mod_version": "3",
+      "type": "plugin",
+      "name": "Lite XL Simplified Chinese Localization",
+      "description": "Simplified Chinese localization for Lite XL core UI and bundled plugins.",
+      "path": "plugins/l10n_zh_cn",
+      "tags": [
+        "localization",
+        "i18n",
+        "zh-CN",
+        "Chinese"
+      ],
+      "extra": {
+        "license": "MIT",
+        "language": "zh-CN",
+        "lite_xl": "2.1.x",
+        "font_license": "OFL-1.1",
+        "font": "Noto Sans CJK SC Regular"
+      }
+    }
+  ],
+  "remotes": []
+}

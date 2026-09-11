@@ -1,0 +1,7 @@
+# Generated field extraction reports and Python caches
+.field-extraction-cache/
+__pycache__/
+*.pyc
+
+# Local editor/runtime state
+*.log
